@@ -1,0 +1,6 @@
+framework module Pods_smerk_qr {
+  umbrella header "Pods-smerk_qr-umbrella.h"
+
+  export *
+  module * { export * }
+}
